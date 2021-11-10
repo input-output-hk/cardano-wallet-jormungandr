@@ -63,7 +63,7 @@ library
     , http-client-tls
     , http-media
     , http-types
-    , io-sim-classes
+    , io-classes
     , iohk-monitoring
     , memory
     , monad-logger
